@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MarkoGonvil
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Quantitative Analysis for Stock and Crypto Market
+- 💞️ I’m looking to collaborate on tools to support buy/sell decision-making
+- 📫 How to reach me @MarkoGonvil on Twitter
